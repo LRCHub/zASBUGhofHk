@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Rockstar",
+  "base_artist": "LISA",
+  "createdAt": "2025-12-20T07:53:23.092346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do It With a Rockstar",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Do_It_With_a_Rockstar_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do It with a Rockstar",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/02_Do_It_with_a_Rockstar_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rockstar",
+      "artist": "Dylan Schneider",
+      "has_synced": true,
+      "path": "select/03_Rockstar_Dylan_Schneider.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rockstar Lifestyle (Lil Keed feat. Dae Dae)",
+      "artist": "Lil Keed feat. Lil Yachty, Zaytoven & Dae Dae",
+      "has_synced": false,
+      "path": "select/04_Rockstar_Lifestyle_(Lil_Keed_feat._Dae_Dae)_Lil_Keed_feat._Lil_Yachty,_Zaytoven_&_Dae_Dae.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rockstar Lifestyle (feat. Dae Dae)",
+      "artist": "Lil Keed & ZAYTOVEN",
+      "has_synced": false,
+      "path": "select/05_Rockstar_Lifestyle_(feat._Dae_Dae)_Lil_Keed_&_ZAYTOVEN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rockstar",
+      "artist": "jonatan leandoer96",
+      "has_synced": false,
+      "path": "select/06_Rockstar_jonatan_leandoer96.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rockstar",
+      "artist": "jonatan leandoer127",
+      "has_synced": false,
+      "path": "select/07_Rockstar_jonatan_leandoer127.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rockstar (feat. NAV)",
+      "artist": "Lil Keed feat. NAV",
+      "has_synced": true,
+      "path": "select/08_Rockstar_(feat._NAV)_Lil_Keed_feat._NAV.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rockstar (feat. NAV)",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/09_Rockstar_(feat._NAV)_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rockstar",
+      "artist": "Momma",
+      "has_synced": true,
+      "path": "select/10_Rockstar_Momma.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rockstar",
+      "artist": "Momma",
+      "has_synced": true,
+      "path": "select/11_Rockstar_Momma.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ROCKSTAR P",
+      "artist": "Baby Keem",
+      "has_synced": true,
+      "path": "select/12_ROCKSTAR_P_Baby_Keem.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rockstar",
+      "artist": "CH!PZ",
+      "has_synced": false,
+      "path": "select/13_Rockstar_CH!PZ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rockstar",
+      "artist": "Brad",
+      "has_synced": false,
+      "path": "select/14_Rockstar_Brad.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rockstar Girl",
+      "artist": "Charles Hamilton",
+      "has_synced": false,
+      "path": "select/15_Rockstar_Girl_Charles_Hamilton.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Die Like a Rockstar",
+      "artist": "Danny Brown",
+      "has_synced": true,
+      "path": "select/16_Die_Like_a_Rockstar_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rockstar",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Drue Davis",
+      "has_synced": false,
+      "path": "select/17_Rockstar_Scott_Bradlee's_Postmodern_Jukebox_feat._Drue_Davis.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rockstar",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/18_Rockstar_Scott_Bradlee's_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ROCKSTAR (feat. Roddy Ricch) - BLM REMIX",
+      "artist": "DaBaby feat. Roddy Ricch",
+      "has_synced": true,
+      "path": "select/19_ROCKSTAR_(feat._Roddy_Ricch)_-_BLM_REMIX_DaBaby_feat._Roddy_Ricch.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rockstar",
+      "artist": "LISA",
+      "has_synced": false,
+      "path": "select/pl_01_Rockstar_LISA.txt"
+    }
+  ]
+}
